@@ -37,8 +37,7 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li class="active"><a href="/">Home</a></li>
-              <p>левый текст</p>
-			  <p>Очередной левый текст</p>
+              <p>Lorem ipsum dolor sit amet, usu id eripuit disputando, tollit detraxit invenire in vix. Et paulo dolorum est. Everti legimus tincidunt ut mea, ut primis patrioque per. Has autem dignissim an. Pro ea natum euripidis<p>
 	          <?if (!$this->user){?>
               <li><a href="/?login">Login</a></li>
               <?}?>
