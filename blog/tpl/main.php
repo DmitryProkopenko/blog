@@ -37,7 +37,8 @@
           <div class="nav-collapse">
             <ul class="nav">
               <li class="active"><a href="/">Home</a></li>
-              
+              <p>левый текст</p>
+			  <p>Очередной левый текст</p>
 	          <?if (!$this->user){?>
               <li><a href="/?login">Login</a></li>
               <?}?>
